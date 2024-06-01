@@ -1,0 +1,9 @@
+{
+  "development": {
+    "username": "root",
+    "password": "deep70",
+    "database": "blog_management",
+    "host": "127.0.0.1",
+    "dialect": "mysql"
+  }
+}
